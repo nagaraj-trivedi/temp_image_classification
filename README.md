@@ -1,5 +1,11 @@
 # Project Name
-> Outline a brief description of your project.
+> This project is about building a CNN based model and evaluate it  based on
+> 1. Training and Validation accuracy and loss
+> 2. Check whether it underfits/overfits
+> 3. Check is there a class imbalance
+> 4. Rebuild the model with manual data augmentaion and observe the parameters in step 1 to 3
+> 5. Perform data augmentation with augmentation library, train the model and observe the parameters in step 1 to 3
+> 6. Write the final summary
 
 
 ## Table of Contents
