@@ -1,11 +1,5 @@
-# Project Name
-> This project is about building a CNN based model and evaluate it  based on
-> 1. Training and Validation accuracy and loss
-> 2. Check whether it underfits/overfits
-> 3. Check is there a class imbalance
-> 4. Rebuild the model with manual data augmentaion and observe the parameters in step 1 to 3
-> 5. Perform data augmentation with augmentation library, train the model and observe the parameters in step 1 to 3
-> 6. Write the final summary
+# Melanoma Detection using custom convolution neural network
+> This project is about building a CNN based model in TensorFlow which can accurately detect melanoma
 
 
 ## Table of Contents
@@ -17,6 +11,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+- Melanoma is a type of cancer that can be deadly if not detected early.
+-   1. Training and Validation accuracy and loss
+> 2. Check whether it underfits/overfits
+> 3. Check is there a class imbalance
+> 4. Rebuild the model with manual data augmentaion and observe the parameters in step 1 to 3
+> 5. Perform data augmentation with augmentation library, train the model and observe the parameters in step 1 to 3
+> 6. Write the final conclusion
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
