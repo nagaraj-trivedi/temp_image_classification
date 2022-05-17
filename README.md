@@ -12,7 +12,17 @@
 
 ## General Information
 > Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
-> The purpose of this project is to build a custom CNN model in tensorflow perform the following
+> The purpose of this project is to build a custom CNN model in tensorflow to 
+> 
+> 1. Build a basic model with the given initial size of the data and evaluate training as well as validation accuracy and loss
+> 2. Plot the graph and observe whether it is overfitting or underfitting
+> 3. Choose an appropriate data agumentation, build the model and obverse the training as well as validation accuracy and loss
+> 4. Introduce drop out, build the model and observe the training as well as validation accuracy and loss
+> 5. Plot the graph, observe the distribution of images and each class and find out which class has got lesser number of images and which classes have got higher proportionate of distribution of images
+> 6. Perform data augmentation with the augmentor library and class rebalance with 500 images in every class through augmentation
+> 7. Rebuild the model with augmented data size and observe the train, validation accurach and loss
+> 8. Evaluate all these models and choose a right model for prediction on the test images
+> 9. Perform predictions on the test images, observe the accuracy and provide a conclusion
 
 > 1.With given initial size of the data set perform the following
    -  Find the training and validation accuracy aswell as the loss
