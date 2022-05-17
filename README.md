@@ -42,7 +42,9 @@
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
+- It solves the business problem of health care industry particurly cancer and the dermatology.
 - What is the dataset that is being used?
+- Data set from International Skin Imaging Collaboration (ISIC)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -56,6 +58,7 @@
 
 
 ## Technologies Used
+- libraries from tensorflow, pandas, numpy, matplotlib, pathlib, os, io
 - library - version 1.0
 - library - version 2.0
 - library - version 3.0
@@ -64,13 +67,13 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by the upgrad learning coarse on CNN
 - References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@nagaraj-trivedi] - feel free to contact me!
 
 
 <!-- Optional -->
