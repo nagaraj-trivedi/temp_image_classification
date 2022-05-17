@@ -67,9 +67,11 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by the upgrad learning coarse on CNN
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by the upgrad learning coarse on CNN as part of the Deep Learning
+- References
+> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6231861/
+> 
+- This project was based on [this tutorial](https://learn.upgrad.com/course/1992?courseId=12362).
 
 
 ## Contact
