@@ -1,4 +1,4 @@
-# Melanoma Detection using custom convolution neural network
+# Melanoma Detection using multiclass classification model using custom convolution neural network in tensorflow
 > This project is about building a CNN based model in TensorFlow which can accurately detect melanoma
 
 
