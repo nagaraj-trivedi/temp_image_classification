@@ -39,9 +39,7 @@
    -  Check is there a class imbalance
 > 5. Perform data augmentation with augmentation library, train the model and observe the parameters in step 1 to 3
 > 6. Write the final conclusion
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
+- The background of this project is to build a model with high accuaracy and lesser loss which can be used for melanoma detection
 - It solves the business problem of health care industry particurly cancer and the dermatology.
 - What is the dataset that is being used?
 - Data set from International Skin Imaging Collaboration (ISIC)
@@ -50,10 +48,15 @@
 
 ## Conclusions
 - Conclusion 1 from the analysis with Model 1
-> With a total of 2239 images in the train data set the train accuracy was 0.91 and the validataion accuracy was 0.52 The model was overfitting
+> With a total of 2239 images in the train data set the train accuracy was 0.90 and the validataion accuracy was 0.52 The model was overfitting
 - Conclusion 2 from the analysis with Model 2
-> Using manual data augmentation technique
-- Conclusion 3 from the analysis
+> Using manual data augmentation technique and drop out the train accuracy was 0.71 and validation accuracy was 0.52
+> There was no increse in the train accuracy compared to Model 1. The only improvement is that validation loss was lesser compared to Model 1. But still the model overfitts
+- Conclusion 3 from the analysis with Model 3
+- Model 3 was built with data augmentation about 500 images in each of the classes
+- The train accuracy was greater than 0.9 and the validataion accuracy was greater than 0.8
+- Both train and validation loss got reduced significantly
+- The final model was free from overfitting and the class rebalance really helped to overcome the overfitting
 - Conclusion 4 from the analysis with Model 3 using augmentor library there were 6739 images
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -78,10 +81,4 @@ Give credit here.
 
 ## Contact
 Created by [@nagaraj-trivedi] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
