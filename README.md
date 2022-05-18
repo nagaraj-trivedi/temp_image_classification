@@ -49,10 +49,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+- Conclusion 1 from the analysis with Model 1
+> With a total of 2239 images in the train data set the train accuracy was 0.91 and the validataion accuracy was 0.52 The model was overfitting
+- Conclusion 2 from the analysis with Model 2
+> Using manual data augmentation technique
 - Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 4 from the analysis with Model 3 using augmentor library there were 6739 images
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
