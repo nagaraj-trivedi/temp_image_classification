@@ -54,7 +54,8 @@
 > There was no increse in the train accuracy compared to Model 1. The only improvement is that validation loss was lesser compared to Model 1. But still the model overfitts
 - Conclusion 3 from the analysis with Model 3
 - Model 3 was built with data augmentation about 500 images in each of the classes
-- The train accuracy was greater than 0.9 and the validataion accuracy was greater than 0.8
+- The train accuracy was 0.91 and the validataion accuracy was greater than 0.82
+- Train loss was 0.24 and validataion loss was 0.70
 - Both train and validation loss got reduced significantly
 - The final model was free from overfitting and the class rebalance really helped to overcome the overfitting
 - Conclusion 4 from the analysis with Model 3 using augmentor library there were 6739 images
